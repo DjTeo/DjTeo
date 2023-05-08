@@ -11,7 +11,7 @@ I'm Theodosis Gkikas, I am almost 30 years old, I am a Software Engineer and a G
 - ⚡ Fun fact: I finished first at my graduation at Digital System on UniPi and I am a decent DJ
 
 ## Skills
-- 👨‍💻 C#, Java, Lua, Javascript
+- 👨‍💻 C#, Java, Javascript, Python, Lua
 - ⚙️ ASP.NET, WEB API, .NET Core, Entity Framework
 - 💽 MySQL, Microsoft SQL Server
 
